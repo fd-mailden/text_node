@@ -1,0 +1,9 @@
+.container{
+    max-width: 400px;
+    max-height: 6500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+}
